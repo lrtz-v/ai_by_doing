@@ -7,7 +7,6 @@ from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import PolynomialFeatures
 
 df = pl.read_csv("course-6-vaccine.csv")
-print(df.describe())
 
 # 首先划分 dateframe 为训练集和测试集
 split_num = int(len(df) * 0.7)
