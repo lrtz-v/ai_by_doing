@@ -4,5 +4,5 @@
 
 # dataset
 
-https://cdn.aibydoing.com/aibydoing/files/course-5-boston.csv
-https://cdn.aibydoing.com/aibydoing/files/challenge-1-beijing.csv
+- 波士顿房价 https://cdn.aibydoing.com/aibydoing/files/course-5-boston.csv
+- 北京房价 https://cdn.aibydoing.com/aibydoing/files/challenge-1-beijing.csv
